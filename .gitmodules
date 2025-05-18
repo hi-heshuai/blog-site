@@ -1,0 +1,3 @@
+[submodule "packages/common-core-components"]
+	path = packages/common-core-components
+	url = https://github.com/hi-heshuai/common-core-components.git
